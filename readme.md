@@ -8,8 +8,8 @@
 4. Users can verify the certificate by comparing the stored hash.
 ## Program:
 ```
-Name : John Wilfred Thomas J W
-Register Number : 24013517/212224040141
+Name : kamalesh v
+Register Number : 212222240042
 
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
